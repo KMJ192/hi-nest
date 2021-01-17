@@ -1,0 +1,5 @@
+//class의 유효성 검사
+npm i class-validator class-transformer
+
+//DTO(Data Transfer Object) 변환
+npm i @nestjs/mapped-types
